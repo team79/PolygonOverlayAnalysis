@@ -1,1 +1,4 @@
 # PolygonOverlayAnalysis
+本系统旨在解决两个任意简单多边形的交并差问题，同时实现多边形的可视化输入与显示。
+
+算法描述见algorithm.pdf
