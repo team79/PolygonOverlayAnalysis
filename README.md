@@ -3,6 +3,10 @@
 
 算法描述见algorithm.pdf
 
+输入多边形：
+比如A
+![image](https://github.com/team79/PolygonOverlayAnalysis/blob/master/A.png)
+
 交集：
 ![image](https://github.com/team79/PolygonOverlayAnalysis/blob/master/and.png)
 
